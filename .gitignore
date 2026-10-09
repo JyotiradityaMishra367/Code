@@ -1,0 +1,37 @@
+# Python cache
+*.__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.log
+
+# Large simulation outputs
+# results/
+# outputs/
+# data/generated/
+
+# NumPy and simulation data (optional)
+# *.npy
+# *.npz
+# *.csv
+# *.h5
