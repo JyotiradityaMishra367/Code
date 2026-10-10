@@ -8,7 +8,8 @@ venv/
 env/
 
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+*.ipynb
+*.ipynb_checkpoints/
 
 # VS Code settings (optional)
 .vscode/
